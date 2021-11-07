@@ -1,0 +1,6 @@
+website: "data.cityofchicago.org"
+api_token: ""
+email: "youremail@gmail.com"
+password: "password"
+input_file: 'data.csv'
+output_file: 'final_data.csv'
